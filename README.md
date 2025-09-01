@@ -1,2 +1,1 @@
-# This is a change from feature/update-readme branch
-khyathi
+# This is from readme-update branch
