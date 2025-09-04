@@ -1,1 +1,1 @@
-feature-B work
+feature B work
