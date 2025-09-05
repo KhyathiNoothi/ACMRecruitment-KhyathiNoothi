@@ -1,1 +1,1 @@
-
+this puzzle was solved using simple logic, elimination, and Sudoku rules. No guessing was needed.
